@@ -1,5 +1,5 @@
 {
-    "name": "NewAssembly",
+    "name": "klazapp.reusable.string.builder.runtime",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
