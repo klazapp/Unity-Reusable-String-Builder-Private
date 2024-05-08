@@ -3,7 +3,6 @@ using System.Text;
 
 namespace com.Klazapp.Utility
 {
-    [ScriptHeader("ReusableStringBuilder improves performance on string concatenation by reusing a single string builder for multiple usages")]
     public class ReusableStringBuilder : MonoSingletonGlobal<ReusableStringBuilder>
     {
         #region Variables
