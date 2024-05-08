@@ -1,7 +1,9 @@
 {
     "name": "klazapp.reusable.string.builder.runtime",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "com.klazapp.singleton.runtime"
+    ],
     "includePlatforms": [
         "Editor"
     ],
