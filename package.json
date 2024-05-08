@@ -10,9 +10,6 @@
     "data"
   ],
   "category": "Utility",
-  "dependencies": {
-    "com.klazapp.editor.helper": "1.0.0"
-  },
   "author": {
       "name": "Klazapp",
       "email": "klazapp@klazapp.com",
