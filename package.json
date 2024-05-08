@@ -10,6 +10,9 @@
     "data"
   ],
   "category": "Utility",
+    "dependencies": {
+    "com.klazapp.singleton": "1.0.0"
+  },
   "author": {
       "name": "Klazapp",
       "email": "klazapp@klazapp.com",
