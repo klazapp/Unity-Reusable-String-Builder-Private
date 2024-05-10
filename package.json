@@ -3,15 +3,15 @@
   "displayName": "Unity Reusable String Builder",
   "version": "1.0.0",
   "unity": "2022.3",
-  "description": "This custom editor helper tool development",
+  "description": "Optimize your string manipulations in Unity with Klazapp's Reusable StringBuilder. This utility leverages a singleton StringBuilder instance to minimize garbage collection and enhance performance, making it ideal for performance-critical applications such as gaming. It offers a thread-safe, easy-to-use API for efficient string building in any Unity project.",
   "keywords": [
     "config",
     "file",
     "data"
   ],
   "category": "Utility",
-    "dependencies": {
-    "com.klazapp.singleton": "1.0.0"
+  "dependencies": {
+    "com.klazapp.editor.helper": "1.0.0"
   },
   "author": {
       "name": "Klazapp",
